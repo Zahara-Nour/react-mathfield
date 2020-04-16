@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-mathfield/static/css/main.2967eee3.chunk.css",
+    "main.js": "/react-mathfield/static/js/main.c89b7e5e.chunk.js",
+    "main.js.map": "/react-mathfield/static/js/main.c89b7e5e.chunk.js.map",
+    "runtime-main.js": "/react-mathfield/static/js/runtime-main.815943b0.js",
+    "runtime-main.js.map": "/react-mathfield/static/js/runtime-main.815943b0.js.map",
+    "static/css/2.a50125a3.chunk.css": "/react-mathfield/static/css/2.a50125a3.chunk.css",
+    "static/js/2.bbe7b836.chunk.js": "/react-mathfield/static/js/2.bbe7b836.chunk.js",
+    "static/js/2.bbe7b836.chunk.js.map": "/react-mathfield/static/js/2.bbe7b836.chunk.js.map",
+    "index.html": "/react-mathfield/index.html",
+    "precache-manifest.e893dc1794ce555fc8191be47018ad19.js": "/react-mathfield/precache-manifest.e893dc1794ce555fc8191be47018ad19.js",
+    "service-worker.js": "/react-mathfield/service-worker.js",
+    "static/css/2.a50125a3.chunk.css.map": "/react-mathfield/static/css/2.a50125a3.chunk.css.map",
+    "static/css/main.2967eee3.chunk.css.map": "/react-mathfield/static/css/main.2967eee3.chunk.css.map",
+    "static/js/2.bbe7b836.chunk.js.LICENSE.txt": "/react-mathfield/static/js/2.bbe7b836.chunk.js.LICENSE.txt",
+    "static/js/main.c89b7e5e.chunk.js.LICENSE.txt": "/react-mathfield/static/js/main.c89b7e5e.chunk.js.LICENSE.txt",
+    "static/media/mathlive.css": "/react-mathfield/static/media/KaTeX_Typewriter-Regular.db041f37.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.815943b0.js",
+    "static/css/2.a50125a3.chunk.css",
+    "static/js/2.bbe7b836.chunk.js",
+    "static/css/main.2967eee3.chunk.css",
+    "static/js/main.c89b7e5e.chunk.js"
+  ]
+}
